@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Perf Kernel w/ KernelSU by gloeyisk
+kernel.string=GL-DP Kernel by gloeyisk
 do.devicecheck=1
 do.modules=0
 do.systemless=1
