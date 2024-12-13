@@ -15,7 +15,7 @@ device.name2=sweetin
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=11 - 14
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
